@@ -1,1 +1,1 @@
-# weather-app
+# Fullstack weather-app
